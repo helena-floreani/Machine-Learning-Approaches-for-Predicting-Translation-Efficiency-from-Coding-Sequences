@@ -17,4 +17,4 @@
 ## Thesis
 
 
-📄 **[Read the full thesis](./Thesis_Helena_Floreani.pdf)**
+📄 **[Read the full thesis](./zavrsni_rad_Helena_Floreani.pdf)**
